@@ -49,7 +49,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 
 **PROGRAM**
-
+ **Developed by: Elamaran S E**
+ 
+ **RegisterNumber:212222230036**
 ```
 module JK(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
@@ -86,9 +88,6 @@ end
 endmodule
 ```
 
- **Developed by: Elamaran S E**
- 
- **RegisterNumber:212222230036**
 
 **RTL LOGIC FOR FLIPFLOPS**
 
